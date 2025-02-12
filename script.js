@@ -1,5 +1,5 @@
-const apiKey = "684cc72e14437f714c7d85edcb72e227"; // Replace with your OpenWeatherMap API key
-const unsplashAccessKey = "zpYzcX1Pj3l9su6kuzB_e5lf3MeJU33T3DfmbIwe3aA"; // Unsplash API Key
+const apiKey = "684cc72e14437f714c7d85edcb72e227";
+const unsplashAccessKey = "zpYzcX1Pj3l9su6kuzB_e5lf3MeJU33T3DfmbIwe3aA";
 const searchBtn = document.getElementById("searchBtn");
 const locationBtn = document.getElementById("locationBtn");
 const cityInput = document.getElementById("cityInput");
